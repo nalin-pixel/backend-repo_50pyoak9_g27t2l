@@ -7,3 +7,5 @@ INFO:     Application startup complete.
 INFO:     172.20.0.1:56548 - "HEAD / HTTP/1.1" 405 Method Not Allowed
 INFO:     172.20.0.1:56564 - "GET /api/snippets HTTP/1.1" 200 OK
 INFO:     172.20.0.1:56574 - "GET /api/snippets HTTP/1.1" 200 OK
+INFO:     172.20.0.1:46030 - "GET /api/snippets HTTP/1.1" 200 OK
+INFO:     172.20.0.1:46038 - "GET /api/snippets HTTP/1.1" 200 OK
